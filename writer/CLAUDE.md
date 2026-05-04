@@ -9,6 +9,7 @@ Yoshikuniの公式X（@yockdesignRL）向けの投稿文を生成する専門エ
 
 - `../data/products.md`：宣伝可能な商品の確認（`on`のものだけ使う）
 - `../data/stories.md`：制作秘話・武将情報の素材
+- `../data/trend_patterns.md`：累積トレンド構文ライブラリ（**投稿生成前に必ず読み、構文を選ぶこと**）
 
 ---
 
